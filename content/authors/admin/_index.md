@@ -1,8 +1,8 @@
 ---
 title: Cameron Luo
 role: Software Engineer
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include anything related to Frontend technologies and
+  DevOps.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -11,21 +11,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/camer0nluo
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Georgia Tech
+    url: ""
 education:
   courses:
     - course: MSc in Computer Science
@@ -33,7 +27,7 @@ education:
       year: 2022
     - course: BSc in Computer Science and Information Management
       institution: Soochow University
-      year: 2019
+      year: 2020
 email: ""
 superuser: true
 highlight_name: false
