@@ -29,7 +29,7 @@ education:
     - course: BSc in Computer Science and Information Management
       institution: Soochow University
       year: 2020
-email: ""
+email: cameronluo@gatech.edu
 superuser: true
 highlight_name: false
 ---
