@@ -1,7 +1,7 @@
 ---
 title: Cameron Luo
 role: Software Engineer
-avatar_filename: img_4287.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include anything related to Frontend technologies and
   DevOps.
 interests:
@@ -17,7 +17,7 @@ social:
     link: https://github.com/camer0nluo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/cameronluo/
 organizations:
   - name: Georgia Tech
     url: ""
