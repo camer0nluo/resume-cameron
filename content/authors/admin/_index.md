@@ -1,6 +1,7 @@
 ---
 title: Cameron Luo
 role: Software Engineer
+avatar_filename: img_4287.jpg
 bio: My research interests include anything related to Frontend technologies and
   DevOps.
 interests:
