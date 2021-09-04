@@ -68,6 +68,7 @@ experience:
       • Develop scripts to automate visualization\
       • Design procedures for system troubleshooting and maintenance
 
+  - title: UX Designer (Internship)
     company: Advantech
     company_url: ""
     company_logo: ad
