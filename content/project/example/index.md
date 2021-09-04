@@ -3,7 +3,7 @@ title: Streaming Platform
 summary: An academic project to achieve all the needs for online streaming
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.cameronluo.me/slides/streamingproject/"
 
 links:
   - icon: linkedin
