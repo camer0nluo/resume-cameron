@@ -68,6 +68,22 @@ experience:
       • Develop scripts to automate visualization\
       • Design procedures for system troubleshooting and maintenance
 
+    company: Advantech
+    company_url: ""
+    company_logo: ad
+    location: Taipei
+    date_start: "2018-02-07"
+    date_end: "2019-06-26"
+    description: |2-
+      • Performed UI designs and coding, created reusable objects and templates, wireframes for web pages and email templates; manage maintenance, updates, expansions, and scaling of each design\
+      • Identified and troubleshooted UX problems (e.g. responsiveness)\
+      • Conducted layout adjustments based on user feedback\
+      • Adhered to style standards on fonts, colors and images\
+      • Use of Hotjar and Google Analytics\
+      • Illustrated design ideas using storyboards, process flows and sitemaps\
+      • Optimizing copy and landing pages for search engine optimization\
+      • Performed ongoing keyword research including discovery and expansion of keyword opportunities
+
 design:
   columns: "2"
 ---
