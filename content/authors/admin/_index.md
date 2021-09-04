@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include anything related to Frontend technologies and
   DevOps.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Healthcare Technologies
+  - E-Commerce Platforms
+  - DevOps
 social:
   - icon: envelope
     icon_pack: fas
@@ -33,9 +33,6 @@ email: cameronluo@gatech.edu
 superuser: true
 highlight_name: false
 ---
+I am currently a Software Engineer at DBS Bank and also studying at Georgia Institute of Technology during off-work hours. I am open to any new opportunities that could bring me different experiences in my career.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I have excellent communication skills with the ability to interact effectively verbally and in writing. I also have the ability to lead and manage a team of developers. I have the knowledge needed to help plan and organize projects and to help estimate the time and cost to complete them. I have outstanding time management skills along with the ability to work on more than one project at a time.
