@@ -33,6 +33,6 @@ email: cameronluo@gatech.edu
 superuser: true
 highlight_name: false
 ---
-I am currently a Software Engineer at DBS Bank and also studying at Georgia Institute of Technology during off-work hours. I am open to any new opportunities that could bring me different experiences in my career.
+I am currently a Software Engineer at EverTrue and also studying at Georgia Institute of Technology during off-work hours. I am open to any new opportunities that could bring me different experiences in my career.
 
 I have excellent communication skills with the ability to interact effectively verbally and in writing. I also have the ability to lead and manage a team of developers. I have the knowledge needed to help plan and organize projects and to help estimate the time and cost to complete them. I have outstanding time management skills along with the ability to work on more than one project at a time.
