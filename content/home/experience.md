@@ -37,7 +37,7 @@ experience:
       • Reviewed application requirements and interface designs to ensure compatibility within existing applications \
       • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker \
       • Experienced in using JIRA software with Jenkins and github for real time bug tracking and issue management \
-      • Experienced in implementing Agile and SDLC software development methodologies. \
+      • Experienced in implementing Agile and SDLC software development methodologies. 
 
 -   title: Software Engineer
     company: DBS Bank
