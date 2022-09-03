@@ -23,23 +23,23 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 - title: Software Engineer
-    company: EverTrue
-    company_url: ""
-    company_logo: EverTrue
-    location: Remote, United States
-    date_start: "2022-08-01"
-    date_end: ""
-    description: |2-
+  company: EverTrue
+  company_url: ""
+  company_logo: EverTrue
+  location: Remote, United States
+  date_start: "2022-08-01"
+  date_end: ""
+  description: |2-
       • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest \
       • Contributed to the ThankView application Frontend codebase using ReactJS \
       • Contributed to the ThankView application Backend using PHP and Laravel \
       • Troubleshooted Digital Taiwan and debugged application codes to improve functionality \
       • Reviewed application requirements and interface designs to ensure compatibility within existing applications \
       • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker \
-      • Expertized in using JIRA software with Jenkins and github for real time bug tracking and issue management \
-      • Expertized in implementing Agile and SDLC software development methodologies.
+      • Experienced in using JIRA software with Jenkins and github for real time bug tracking and issue management \
+      • Experienced in implementing Agile and SDLC software development methodologies. \
 
-  - title: Software Engineer
+-   title: Software Engineer
     company: DBS Bank
     company_url: ""
     company_logo: DBS
@@ -52,10 +52,10 @@ experience:
       • Troubleshooted Digital Taiwan and debugged application codes to improve functionality \
       • Reviewed application requirements and interface designs to ensure compatibility within existing applications \
       • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker \
-      • Expertized in using JIRA software with Jenkins and github for real time bug tracking and issue management \
-      •Expertized in implementing Agile and SDLC software development methodologies.
+      • Experienced in using JIRA software with Jenkins and github for real time bug tracking and issue management \
+      • Experienced in implementing Agile and SDLC software development methodologies.
 
-  - title: Systems Engineer
+-   title: Software Engineer
     company: Family Mart
     company_url: ""
     company_logo: FM
@@ -69,7 +69,7 @@ experience:
       • Created views, Stored Procedures in SQL when required \
       • Strong Experience in tracing requirements to functional specs to test scenarios and test scripts
 
-  - title: Software Engineer (Internship)
+-   title: Software Engineer (Internship)
     company: HPE
     company_url: ""
     company_logo: HPE
@@ -85,7 +85,7 @@ experience:
       • Develop scripts to automate visualization\
       • Design procedures for system troubleshooting and maintenance
 
-  - title: UX Designer (Internship)
+-   title: UX Designer (Internship)
     company: Advantech
     company_url: ""
     company_logo: ad
