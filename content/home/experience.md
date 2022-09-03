@@ -25,20 +25,20 @@ experience:
 - title: Software Engineer
     company: EverTrue
     company_url: ""
-    company_logo: 
+    company_logo: EverTrue
     location: Remote, United States
     date_start: "2022-08-01"
     date_end: ""
     description: |2-
-      • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest\
-      • Contributed to the ThankView application Frontend codebase using ReactJS\
-      • Contributed to the ThankView application Backend using PHP and Laravel\
-      • Troubleshooted Digital Taiwan and debugged application codes to improve functionality\
-      • Reviewed application requirements and interface designs to ensure compatibility within existing applications\
-      • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker\
-      • Expertized in using JIRA software with Jenkins and github for real time bug tracking and issue management\
+      • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest \
+      • Contributed to the ThankView application Frontend codebase using ReactJS \
+      • Contributed to the ThankView application Backend using PHP and Laravel \
+      • Troubleshooted Digital Taiwan and debugged application codes to improve functionality \
+      • Reviewed application requirements and interface designs to ensure compatibility within existing applications \
+      • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker \
+      • Expertized in using JIRA software with Jenkins and github for real time bug tracking and issue management \
       • Expertized in implementing Agile and SDLC software development methodologies.
-      
+
   - title: Software Engineer
     company: DBS Bank
     company_url: ""
@@ -47,12 +47,12 @@ experience:
     date_start: "2021-03-08"
     date_end: "2022-06-06"
     description: |2-
-      • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest\
-      • Provided hot-fixes and implemented new features in Digital Taiwan (DigiBank)\
-      • Troubleshooted Digital Taiwan and debugged application codes to improve functionality\
-      • Reviewed application requirements and interface designs to ensure compatibility within existing applications\
-      • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker\
-      • Expertized in using JIRA software with Jenkins and github for real time bug tracking and issue management\
+      • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest \
+      • Provided hot-fixes and implemented new features in Digital Taiwan (DigiBank) \
+      • Troubleshooted Digital Taiwan and debugged application codes to improve functionality \
+      • Reviewed application requirements and interface designs to ensure compatibility within existing applications \
+      • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker \
+      • Expertized in using JIRA software with Jenkins and github for real time bug tracking and issue management \
       •Expertized in implementing Agile and SDLC software development methodologies.
 
   - title: Systems Engineer
