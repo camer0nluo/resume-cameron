@@ -31,13 +31,12 @@ experience:
   date_end: ""
   description: |2-
       • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest \
-      • Contributed to the ThankView application Frontend codebase using ReactJS \
-      • Contributed to the ThankView application Backend using PHP and Laravel \
-      • Troubleshooted Digital Taiwan and debugged application codes to improve functionality \
-      • Reviewed application requirements and interface designs to ensure compatibility within existing applications \
-      • Proficient with various development, testing, deployment tools - Git, Jenkins, and Docker \
-      • Experienced in using JIRA software with Jenkins and github for real time bug tracking and issue management \
-      • Experienced in implementing Agile and SDLC software development methodologies. 
+      • Experienced Frontend Engineer with a strong background in AngularJS and PHP Laravel. \
+      • Proven ability to design and develop high-performance, responsive and user-friendly web applications. \
+      • Strong expertise in JavaScript, CSS, and HTML, as well as modern frontend frameworks such as AngularJS. \
+      • Experience in building web applications using PHP Laravel, and integrating it with frontend frameworks. \
+      • Strong understanding of web development best practices, accessibility, and SEO. \
+      • Passionate about creating intuitive and engaging user experiences.
 
 -   title: Software Engineer
     company: DBS Bank
