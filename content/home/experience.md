@@ -24,13 +24,12 @@ date_format: Jan 2006
 experience:
 - title: Software Engineer
   company: EverTrue
-  company_url: ""
+  company_url: "www.evertrue.com"
   company_logo: EverTrue
   location: Remote, United States
   date_start: "2022-08-01"
   date_end: ""
   description: |2-
-      • Working knowledge in JavaScript, TypeScript, React, React Hooks, Redux, Redux-Saga and Jest \
       • Experienced Frontend Engineer with a strong background in AngularJS and PHP Laravel. \
       • Proven ability to design and develop high-performance, responsive and user-friendly web applications. \
       • Strong expertise in JavaScript, CSS, and HTML, as well as modern frontend frameworks such as AngularJS. \
@@ -40,7 +39,7 @@ experience:
 
 -   title: Software Engineer
     company: DBS Bank
-    company_url: ""
+    company_url: "https://internet-banking.dbs.com.tw/digitw/login"
     company_logo: DBS
     location: Taipei
     date_start: "2021-03-08"
@@ -56,7 +55,7 @@ experience:
 
 -   title: Software Engineer
     company: Family Mart
-    company_url: ""
+    company_url: "https://www.family.co.jp/for_tourist/en.html"
     company_logo: FM
     location: Taipei
     date_start: "2020-07-14"
@@ -70,7 +69,7 @@ experience:
 
 -   title: Software Engineer (Internship)
     company: HPE
-    company_url: ""
+    company_url: "https://www.hpe.com/us/en/home.html"
     company_logo: HPE
     location: Taipei
     date_start: "2019-07-01"
@@ -86,7 +85,7 @@ experience:
 
 -   title: UX Designer (Internship)
     company: Advantech
-    company_url: ""
+    company_url: "https://www.advantech.com/en-us"
     company_logo: ad
     location: Taipei
     date_start: "2018-02-07"
