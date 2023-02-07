@@ -1,3 +1,5 @@
-# Resume
+# Resume website bootstrapped with Academic Template by [Hugo](https://github.com/gohugoio/hugo)
 
-## Bootstrapped with Academic Template by [Hugo](https://github.com/gohugoio/hugo)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e3b2b64d-1bee-4c0d-82b5-16153ea87a4e/deploy-status)](https://app.netlify.com/sites/lcamcam/deploys)
+
+If the website link isn't working, the other link is [here](https://lcamcam.netlify.app/)
